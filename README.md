@@ -23,4 +23,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## Dataset
+
 The notebooks download the mushroom dataset automatically, so no manual setup is required.
+The data comes from the [Mushroom Classification dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+([UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)) — download
+it there if you'd like to try it out yourself.
